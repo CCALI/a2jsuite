@@ -1,0 +1,12 @@
+[submodule "a2jdeps"]
+	path = a2jdeps
+	url = https://github.com/ccali/a2jdeps
+[submodule "a2jviewer"]
+	path = a2jviewer
+	url = https://github.com/ccali/a2jviewer
+[submodule "a2jdat"]
+	path = a2jdat
+	url = https://github.com/ccali/a2jdat
+[submodule "a2jauthor"]
+	path = a2jauthor
+	url = https://github.com/ccali/a2jauthor
